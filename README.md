@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Dev Saxena
-**A passionate Software Engineer || Ai Enthusiast || Quick Learner**
+**A passionate Software Engineer || AI Enthusiast || Quick Learner**
 
 Email Me 👉 ✉️ **saxenadev2021@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** DSA concepts + Java Basics 
+- 🔭 **I’m currently working on:** Travel Companion Website And MIS(Management Information System).
+- 🌱 **I’m currently learning:** DSA concepts + Java Basics + New Emerging AI tools
 - 👯 **I’m looking to collaborate on:** Real world projects
 - 🤔 **I’m looking for help with:** 
 - 💬 **Ask me about:** Collaboration, Python ,C
