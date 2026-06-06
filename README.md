@@ -14,7 +14,7 @@ I'm a Computer Science student passionate about building practical software solu
 - 💻 Interested in Full Stack Development and Software Engineering
 - 📊 Learning Data Analytics and Data Visualization
 - 🤖 Exploring AI-powered Applications and Emerging Technologies
-- 🌱 Currently learning Data Structures & Algorithms with Python
+- 🌱 Currently learning Data Structures & Algorithms with java
 - 🤝 Open to collaboration on impactful real-world projects
 
 ---
@@ -104,11 +104,15 @@ I'm a Computer Science student passionate about building practical software solu
 
 A data-driven decision support platform that helps identify development gaps and supports policy implementation through analytics.
 
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-saxena11/BPIS_2026)
+
 ---
 
 ## 🛍️ Aurelia
 
 A luxury fashion boutique platform featuring AI-assisted experiences and cloud-native deployment.
+
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-saxena11/Aurelia)
 
 ---
 
@@ -116,11 +120,15 @@ A luxury fashion boutique platform featuring AI-assisted experiences and cloud-n
 
 A project currently under active development focused on solving practical workflow and tracking challenges.
 
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-saxena11/EXP-TRAC)
+
 ---
 
 ## 🌍 Travel Companion Website
 
 A travel planning platform that helps users discover destinations, organize trips, and manage travel-related information.
+
+🚧 Repository will be added soon.
 
 ---
 
@@ -128,8 +136,7 @@ A travel planning platform that helps users discover destinations, organize trip
 
 Exploratory Data Analysis project focused on extracting insights from Covid-19 datasets using Python and visualization libraries.
 
----
-
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dev-saxena11/Covid-19_EDA)
 # 🏆 Certifications
 
 - 📜 Python for Data Science (NPTEL)
@@ -169,6 +176,4 @@ Exploratory Data Analysis project focused on extracting insights from Covid-19 d
 
 ---
 
-# 💡 Motto
 
-> Learn consistently. Build practical solutions. Improve every day.
